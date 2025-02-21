@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db464562bd821439",
+        "id": "3eb5b4bbde8b48cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0711378d999925fb",
+            "id": "f8dd8adea3dc987e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Lecture 2 - Continual Learning.md",
-                "bFile": "Lecture 2 - Continual Learning.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Lecture 2 - Continual Learning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Lecture 2 - Continual Learning"
+              "icon": "lucide-file",
+              "title": "Lecture 2 - Continual Learning"
             }
           }
         ]
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture 2 - Continual Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lecture 2 - Continual Learning"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lecture 2 - Continual Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Lecture 2 - Continual Learning"
             }
           },
           {
@@ -141,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lecture 2 - Continual Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lecture 2 - Continual Learning"
             }
           },
           {
@@ -188,11 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0711378d999925fb",
+  "active": "f8dd8adea3dc987e",
   "lastOpenFiles": [
-    "Lecture 2 - Continual Learning.md",
     "IFT6167.md",
     "Home.md",
+    "Lecture 2 - Continual Learning.md",
     "papers/brain foundation models.pdf",
     "images/Screenshot 2025-02-20 at 5.30.46 PM.png",
     "images/Screenshot 2025-02-20 at 5.26.35 PM.png",
