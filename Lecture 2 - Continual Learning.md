@@ -49,6 +49,15 @@ If we have a sequential data, we cannot compute that objective unless we keep al
 
 ![[Screenshot 2025-02-20 at 5.30.46 PM.png|300]]
 
-#paper: [[brain foundation models.pdf]] uses eeg signals as a modality 
-
 #Research_Idea: Do CL methods stand the test of scalability of models and data. Are they really necessary? Can we solve forgetting vs. adaptability by scaling up models and data. Are more sophisticated methods necessary? Need a systematic study. Many papers just present more sophisticated methods and compare with other methods on fixed size datasets.
+
+
+#paper: [[brain foundation models.pdf]] uses eeg signals as a modality 
+#paper: New Time series foundation model: [[chronos.pdf]]
+#paper: Foundation models for probabilistic time series forecasting: [[laglama.pdf]]
+
+
+#Research_Idea: The way we tokenize matters as well as model and quality of the model. The model is better if it can transfer knowledge to other modalities. transfer could be zero or even negative. Open research Question: What does it depend on? tokenizer, optimizer, pertaining data for model, and internal measurements. Good, bad and ugly side of transfer!? topic for many projects!
+
+Important book for time series analysis: [[A-Course-in-Time-Series-Analysis-Suhasini.pdf]]
+

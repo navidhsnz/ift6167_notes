@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3eb5b4bbde8b48cf",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f8dd8adea3dc987e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8dd8adea3dc987e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "papers/A-Course-in-Time-Series-Analysis-Suhasini.pdf",
+    "papers/laglama.pdf",
+    "papers/chronos.pdf",
     "Lecture 2 - Continual Learning.md",
     "IFT6167.md",
     "Home.md",
