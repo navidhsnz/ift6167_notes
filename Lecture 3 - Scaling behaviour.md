@@ -6,4 +6,3 @@
 ![[Screenshot 2025-02-21 at 6.23.49 PM.png]]
 
 #paper: Classical but important paper starting this field: [[gpt3 paper.pdf]]
-

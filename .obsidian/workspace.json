@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 3 - Scaling behaviour.md",
+                "file": "README.ml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Scaling behaviour"
+              "title": "README.ml"
             }
           }
         ]
@@ -192,13 +192,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Lecture 3 - Scaling behaviour.md",
+    "README.ml.md",
     "IFT6167.md",
     "Home.md",
     "Ideas.md",
     "2025-01-18.md",
     "Daily Report.md",
     "Business course.md",
-    "Lecture 3 - Scaling behaviour.md",
     "All Papers.md",
     "A letter to god.md",
     "papers/gpt3 paper.pdf",
