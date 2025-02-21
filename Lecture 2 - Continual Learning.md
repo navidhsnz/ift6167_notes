@@ -49,7 +49,7 @@ If we have a sequential data, we cannot compute that objective unless we keep al
 
 ![[Screenshot 2025-02-20 at 5.30.46 PM.png|300]]
 
-#paper: [[brain foundation models.pdf]] uses eeg signals as a modality
+#paper: [[brain foundation models.pdf]] uses eeg signals as a modality 
 
 #Research_Idea: Do CL methods stand the test of scalability of models and data. Are they really necessary? Can we solve forgetting vs. adaptability by scaling up models and data. Are more sophisticated methods necessary? Need a systematic study. Many papers just present more sophisticated methods and compare with other methods on fixed size datasets.
 
