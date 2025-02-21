@@ -53,3 +53,4 @@ If we have a sequential data, we cannot compute that objective unless we keep al
 
 #Research_Idea: Do CL methods stand the test of scalability of models and data. Are they really necessary? Can we solve forgetting vs. adaptability by scaling up models and data. Are more sophisticated methods necessary? Need a systematic study. Many papers just present more sophisticated methods and compare with other methods on fixed size datasets.
 
+yo
