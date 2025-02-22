@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ddb5b44e3080b54f",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "1d6e0049684f4be1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,19 +189,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1d6e0049684f4be1",
   "lastOpenFiles": [
-    "Lecture 3 - Scaling behaviour.md",
+    "Untitled.canvas",
     "IFT6167.md",
+    "2025-02-21.md",
+    "Daily Summary.md",
+    "Ideas.md",
+    "Business course.md",
+    "2025-01-18.md",
+    "Screenshot 2025-02-20 at 4.03.32 PM.png.md",
+    "Lecture 3 - Scaling behaviour.md",
     "Home.md",
+    "README.md",
+    "Language models are few shot learner.pdf.md",
+    "Poems.md",
+    "To do.md",
+    "Screenshot 2025-02-20 at 4.20.48 PM.png",
+    "Screenshot 2025-02-20 at 4.03.32 PM.png",
     "papers/predicting grokking long before it happens.pdf",
     "predicting grokking.md",
-    "README.md",
     "README.ml.md",
-    "Ideas.md",
-    "2025-01-18.md",
     "Daily Report.md",
-    "Business course.md",
     "All Papers.md",
     "A letter to god.md",
     "papers/gpt3 paper.pdf",
@@ -213,8 +222,6 @@
     "images/Screenshot 2025-02-21 at 12.28.33 PM.png",
     "images/Screenshot 2025-02-21 at 12.25.02 PM.png",
     "images/Screenshot 2025-02-21 at 12.14.38 PM.png",
-    "images/Screenshot 2025-02-20 at 5.30.46 PM.png",
-    "images/Screenshot 2025-02-21 at 3.53.09 PM.png",
     "Untitled",
     "Lecture 2 - Continual Learning.md",
     "papers/brain foundation models.pdf",
@@ -223,7 +230,6 @@
     "papers/chronos.pdf",
     "papers/A continual learning survey- Defying forgetting in classification tasks.pdf",
     "papers/learning to learn without forgetting by maximizing transfer and minimizing interference.pdf",
-    "papers/Time Series Analysis and Its Applications Robert David.pdf",
-    "Language models are few shot learner.pdf.md"
+    "papers/Time Series Analysis and Its Applications Robert David.pdf"
   ]
 }
