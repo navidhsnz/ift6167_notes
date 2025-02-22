@@ -16,3 +16,4 @@ Trends started with language.
 Next modality was Vision and later video.
 Other modalities are catching up!
 
+j
