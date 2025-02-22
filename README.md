@@ -1,1 +1,1 @@
-Course notes of IFT6167
+Course notes of IFT6167 🐢
