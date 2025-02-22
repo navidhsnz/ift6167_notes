@@ -15,3 +15,4 @@ Grokking: **a phenomenon when a neural network suddenly learns a pattern in the 
 Trends started with language. 
 Next modality was Vision and later video.
 Other modalities are catching up!
+
