@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 3 - Scaling behaviour.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Scaling behaviour"
+              "title": "README"
             }
           }
         ]
@@ -191,9 +191,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Lecture 3 - Scaling behaviour.md",
     "IFT6167.md",
     "Home.md",
-    "Lecture 3 - Scaling behaviour.md",
     "papers/predicting grokking long before it happens.pdf",
     "predicting grokking.md",
     "README.md",
