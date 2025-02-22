@@ -12,3 +12,6 @@ Transition from memorization to generalization:
 
 Grokking: **a phenomenon when a neural network suddenly learns a pattern in the dataset and jumps from random chance generalization to perfect generalization very suddenly**
 
+Trends started with language. 
+Next modality was Vision and later video.
+Other modalities are catching up!
