@@ -18,7 +18,6 @@ the FM revolution caused many of CL problems were somewhat solved through scalin
 - Transfer Learning:
 ![[Screenshot 2025-02-20 at 3.59.59 PM.png|400]]
 - Meta Learning
-![[Screenshot 2025-02-20 at 4.03.32 PM.png|400]]
 FMs took over Meta Learning: [[Language models are few shot learner.pdf]]
 
 #### Continual Learning Settings: (X=input, Y=label , T=task)

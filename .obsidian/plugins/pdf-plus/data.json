@@ -112,7 +112,7 @@
   "renderMarkdownInStickyNote": true,
   "enablePDFEdit": true,
   "author": "navid",
-  "writeHighlightToFileOpacity": 0.53,
+  "writeHighlightToFileOpacity": 0.5,
   "defaultWriteFileToggle": false,
   "syncWriteFileToggle": true,
   "syncDefaultWriteFileToggle": false,

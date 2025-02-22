@@ -6,5 +6,37 @@
       ],
       "key": "H"
     }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": ","
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "/"
+    }
   ]
 }
