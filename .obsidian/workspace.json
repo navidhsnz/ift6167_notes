@@ -137,32 +137,7 @@
             }
           },
           {
-            "id": "e7f96342ffe908fe",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Lecture 2 - Continual Learning.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Lecture 2 - Continual Learning"
-            }
-          },
-          {
-            "id": "587e6adb399f64d7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "02ddab3f28e4cfcc",
+            "id": "651306ef21504061",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -170,9 +145,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8ad7724b739c4979",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e7e7058a9245d41d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -192,13 +191,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "papers/predicting grokking long before it happens.pdf",
+    "IFT6167.md",
+    "Home.md",
     "Lecture 3 - Scaling behaviour.md",
+    "papers/predicting grokking long before it happens.pdf",
     "predicting grokking.md",
     "README.md",
     "README.ml.md",
-    "IFT6167.md",
-    "Home.md",
     "Ideas.md",
     "2025-01-18.md",
     "Daily Report.md",
