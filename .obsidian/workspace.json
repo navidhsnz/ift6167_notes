@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "cee53e642e3ea31c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "da061851073ede16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 4.md",
+                "file": "Lecture 5 - Neural Scaling Laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4"
+              "title": "Lecture 5 - Neural Scaling Laws"
+            }
+          },
+          {
+            "id": "49d8198885e4caf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 6 - Chinchilla 🐁.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 6 - Chinchilla 🐁"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Research_Idea",
+                "query": "tag:#lecture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5026054382324,
-    "collapsed": true
+    "width": 233.50271224975586
   },
   "right": {
     "id": "72ef5901c685c258",
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Lecture 4 - Computational Psychiatry and FoMo's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Lecture 4 - Computational Psychiatry and FoMo's"
             }
           },
           {
@@ -114,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Lecture 4 - Computational Psychiatry and FoMo's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Lecture 4 - Computational Psychiatry and FoMo's"
             }
           },
           {
@@ -153,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Lecture 4 - Computational Psychiatry and FoMo's.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Lecture 4 - Computational Psychiatry and FoMo's"
             }
           },
           {
@@ -171,19 +185,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "66e71f107db77082",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
-              "state": {},
-              "icon": "file-digit",
-              "title": "Strange New Worlds"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,16 +208,35 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "49d8198885e4caf7",
   "lastOpenFiles": [
+    "images/chinchilla image.png",
+    "images/chinchilla_image.jpeg",
+    "papers/Chinchilla.pdf",
     "README.md",
-    "Lecture 4.md",
+    "Lecture 6 - Chinchilla 🐁.md",
+    "Lecture 5 - Neural Scaling Laws.md",
+    "test.mov",
+    "papers/Scaling Laws for Neural Language Models.pdf",
+    "images/Screenshot 2025-02-22 at 9.41.39 PM.png",
+    "images/Screenshot 2025-02-22 at 9.35.39 PM.png",
+    "images/Screenshot 2025-02-22 at 9.34.41 PM.png",
+    "images/Screenshot 2025-02-22 at 9.32.18 PM.png",
+    "images/Screenshot 2025-02-22 at 9.29.25 PM.png",
+    "images/Screenshot 2025-02-22 at 9.25.07 PM.png",
+    "Lecture 4 - Computational Psychiatry of LLMs.md",
+    "images/Screenshot 2025-02-22 at 9.26.01 PM.png",
+    "images/Screenshot 2025-02-22 at 9.24.52 PM.png",
+    "images/Screenshot 2025-02-21 at 12.28.33 PM.png",
     "Lecture 2 - Continual Learning.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Lecture 3 - Scaling behaviour.md",
+    "papers/Sparse Autoencoders.pdf",
+    "papers/predicting grokking long before it happens.pdf",
     "Home.md",
     "IFT6167.md",
-    "Lecture 3 - Scaling behaviour.md",
     "papers/gpt3 paper.pdf",
-    "papers/predicting grokking long before it happens.pdf",
     "Screenshot 2025-02-20 at 4.03.32 PM.png.md",
     "papers/learning to learn without forgetting by maximizing transfer and minimizing interference.pdf",
     "papers/laglama.pdf",
@@ -227,25 +250,11 @@
     "Language models are few shot learner.pdf.md",
     "Poems.md",
     "To do.md",
-    "Screenshot 2025-02-20 at 4.20.48 PM.png",
-    "Screenshot 2025-02-20 at 4.03.32 PM.png",
     "predicting grokking.md",
     "README.ml.md",
     "Daily Report.md",
     "All Papers.md",
     "A letter to god.md",
-    "images/Screenshot 2025-02-21 at 12.27.15 PM.png",
-    "images/Screenshot 2025-02-21 at 12.17.59 PM.png",
-    "images/Screenshot 2025-02-21 at 12.25.14 PM.png",
-    "images/Screenshot 2025-02-21 at 6.23.49 PM.png",
-    "images/Screenshot 2025-02-21 at 12.27.41 PM.png",
-    "images/Screenshot 2025-02-21 at 12.28.33 PM.png",
-    "images/Screenshot 2025-02-21 at 12.25.02 PM.png",
-    "images/Screenshot 2025-02-21 at 12.14.38 PM.png",
-    "Untitled",
-    "papers/brain foundation models.pdf",
-    "papers/simple and scalable strategies to continually pretrain large language models.pdf",
-    "papers/effect_of_scale_on_catastrophic_fortetting.pdf",
-    "papers/chronos.pdf"
+    "Untitled"
   ]
 }

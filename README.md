@@ -1,6 +1,9 @@
-Course notes of IFT6167 🐢
+Course notes of IFT6167 🏎️
 
+### Lecture Notes:
 - [[Lecture 2 - Continual Learning]]
 - [[Lecture 3 - Scaling behaviour]]
-- [[Lecture 4]]
+- [[Lecture 4 - Computational Psychiatry of LLMs]]
+- [[Lecture 5 - Neural Scaling Laws]]
+- [[Lecture 6 - Chinchilla 🐁]] 
 - 
