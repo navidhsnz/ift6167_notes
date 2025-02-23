@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 4 - Computational Psychiatry and FoMo's.md",
+                "file": "Lecture 6 - Chinchilla 🐁.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 4 - Computational Psychiatry and FoMo's"
+              "title": "Outline of Lecture 6 - Chinchilla 🐁"
             }
           },
           {
@@ -187,12 +187,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,15 +207,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "49d8198885e4caf7",
+  "active": "651306ef21504061",
   "lastOpenFiles": [
+    "test.mov",
+    "Lecture 6 - Chinchilla 🐁.md",
     "images/chinchilla image.png",
     "images/chinchilla_image.jpeg",
     "papers/Chinchilla.pdf",
     "README.md",
-    "Lecture 6 - Chinchilla 🐁.md",
     "Lecture 5 - Neural Scaling Laws.md",
-    "test.mov",
     "papers/Scaling Laws for Neural Language Models.pdf",
     "images/Screenshot 2025-02-22 at 9.41.39 PM.png",
     "images/Screenshot 2025-02-22 at 9.35.39 PM.png",
@@ -227,7 +226,6 @@
     "Lecture 4 - Computational Psychiatry of LLMs.md",
     "images/Screenshot 2025-02-22 at 9.26.01 PM.png",
     "images/Screenshot 2025-02-22 at 9.24.52 PM.png",
-    "images/Screenshot 2025-02-21 at 12.28.33 PM.png",
     "Lecture 2 - Continual Learning.md",
     "Untitled.md",
     "Untitled 1.md",
