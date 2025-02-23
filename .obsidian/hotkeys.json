@@ -7,30 +7,6 @@
       "key": "H"
     }
   ],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "M"
-    }
-  ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": ","
-    }
-  ],
-  "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "."
-    }
-  ],
   "obsidian-emoji-toolbar:emoji-picker:open-picker": [
     {
       "modifiers": [
@@ -39,12 +15,28 @@
       "key": "J"
     }
   ],
-  "obsidian-git:commit-specified-message": [
+  "obsidian-git:commit": [
     {
       "modifiers": [
-        "Ctrl"
+        "Alt"
       ],
-      "key": "N"
+      "key": ","
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
     }
   ]
 }

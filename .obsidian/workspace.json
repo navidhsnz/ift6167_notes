@@ -195,9 +195,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
-    "papers/Chinchilla.pdf",
+    "conflict-files-obsidian-git.md",
     "Lecture 6 - Chinchilla 🐁.md",
+    "papers/Chinchilla.pdf",
+    "papers/attention is all you need.pdf",
+    "README.md",
     "test.mov",
     "images/chinchilla image.png",
     "images/chinchilla_image.jpeg",
@@ -238,7 +240,6 @@
     "README.ml.md",
     "Daily Report.md",
     "All Papers.md",
-    "A letter to god.md",
-    "Untitled"
+    "A letter to god.md"
   ]
 }
