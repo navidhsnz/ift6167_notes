@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a47e7132ebbd52e",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9f4fbeb1bd426080",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Lecture 6 - Chinchilla 🐁.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -192,13 +192,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9f4fbeb1bd426080",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
     "Lecture 6 - Chinchilla 🐁.md",
     "papers/Chinchilla.pdf",
     "papers/attention is all you need.pdf",
     "papers/attention is all you need.pdf.crdownload",
-    "README.md",
     "Lecture 5 - Neural Scaling Laws.md",
     "test.mov",
     "images/chinchilla image.png",

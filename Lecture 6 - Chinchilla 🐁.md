@@ -9,6 +9,8 @@ prerequisite: [[attention is all you need.pdf]]
 
 Blog post: [Scaling Laws for LLMs: From GPT-3 to o3](https://cameronrwolfe.substack.com/p/llm-scaling-laws)
 
+hi
+
 
 
 
