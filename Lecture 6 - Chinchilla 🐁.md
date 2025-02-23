@@ -1,6 +1,7 @@
 This lecture was on the #paper: [[Chinchilla.pdf]]
+prerequisite: [[attention is all you need.pdf]]
 ***
-![[chinchilla image.png|100]]
+![[chinchilla image.png|200]]
 ## Other Resources:
 
 [Youtube video explaining the paper](https://www.youtube.com/watch?v=PZXN7jm9IC0)

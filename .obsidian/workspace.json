@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cee53e642e3ea31c",
+        "id": "2a47e7132ebbd52e",
         "type": "tabs",
         "children": [
           {
-            "id": "da061851073ede16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 5 - Neural Scaling Laws.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 5 - Neural Scaling Laws"
-            }
-          },
-          {
-            "id": "49d8198885e4caf7",
+            "id": "9f4fbeb1bd426080",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Lecture 6 - Chinchilla 🐁.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Lecture 6 - Chinchilla 🐁"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -207,15 +192,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "651306ef21504061",
+  "active": "9f4fbeb1bd426080",
   "lastOpenFiles": [
-    "test.mov",
     "Lecture 6 - Chinchilla 🐁.md",
-    "images/chinchilla image.png",
-    "images/chinchilla_image.jpeg",
     "papers/Chinchilla.pdf",
+    "papers/attention is all you need.pdf",
+    "papers/attention is all you need.pdf.crdownload",
     "README.md",
     "Lecture 5 - Neural Scaling Laws.md",
+    "test.mov",
+    "images/chinchilla image.png",
+    "images/chinchilla_image.jpeg",
     "papers/Scaling Laws for Neural Language Models.pdf",
     "images/Screenshot 2025-02-22 at 9.41.39 PM.png",
     "images/Screenshot 2025-02-22 at 9.35.39 PM.png",
@@ -238,7 +225,6 @@
     "Screenshot 2025-02-20 at 4.03.32 PM.png.md",
     "papers/learning to learn without forgetting by maximizing transfer and minimizing interference.pdf",
     "papers/laglama.pdf",
-    "papers/Language models are few shot learner.pdf",
     "Untitled.canvas",
     "2025-02-21.md",
     "Daily Summary.md",
@@ -252,7 +238,6 @@
     "README.ml.md",
     "Daily Report.md",
     "All Papers.md",
-    "A letter to god.md",
-    "Untitled"
+    "A letter to god.md"
   ]
 }
