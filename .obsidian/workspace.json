@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4952db38a97b89dc",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "03a843ed96d37416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset"
-            }
-          },
-          {
-            "id": "eb5a986edd8181d9",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +194,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "eb5a986edd8181d9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset.md",
     "README.md",
