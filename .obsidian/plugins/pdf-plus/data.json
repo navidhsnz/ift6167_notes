@@ -80,9 +80,10 @@
     "Yellow": "#ffd000",
     "Red": "#ea5252",
     "Note": "#086ddd",
-    "Important": "#bb61e5"
+    "Important": "#bb61e5",
+    "giring": "#679e00"
   },
-  "defaultColor": "",
+  "defaultColor": "giring",
   "defaultColorPaletteItemIndex": 0,
   "syncColorPaletteItem": true,
   "syncDefaultColorPaletteItem": false,

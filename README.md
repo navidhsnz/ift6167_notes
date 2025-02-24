@@ -6,4 +6,5 @@ Course notes of IFT6167 🏎️
 - [[Lecture 4 - Computational Psychiatry of LLMs]]
 - [[Lecture 5 - Neural Scaling Laws]]
 - [[Lecture 6 - Chinchilla 🐁]] 
+- Lecture 7 - 
 - 
