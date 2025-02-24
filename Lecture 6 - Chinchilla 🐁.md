@@ -1,5 +1,5 @@
 This lecture was on the #paper: [[Chinchilla.pdf]]
-prerequisite: [[attention is all you need.pdf]]
+#paper: prerequisite: large autoregressive transformers original paper [[attention is all you need.pdf]]
 ***
 ![[chinchilla image.png|200]]
 ## Other Resources:
