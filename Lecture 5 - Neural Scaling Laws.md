@@ -1,7 +1,8 @@
 Presentation of the paper Scaling Laws for Neural Languages
 ***
 
-#paper: [[Scaling Laws for Neural Language Models.pdf]]
+#paper: [[Scaling Laws for Neural Language Models.pdf]]  
+(original paper starting the field of Neural scaling laws)
 
 [Paper presentation by author Jared Kaplan](https://www.youtube.com/watch?v=sNfkZFVm_xs)
 
