@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "3d663ea38f5cad6c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "42ca1d9229205078",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,13 +194,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "42ca1d9229205078",
   "lastOpenFiles": [
     "Lecture 6 - Chinchilla 🐁.md",
     "README.md",
+    "papers/Chain of Thought Prompting for LLMs.pdf",
+    "papers/A recipe for frontier model post-training.pdf",
     "papers/Scaling Laws for LLMs_ From GPT-3 to o3.pdf",
     "papers/Decoder-Only Transformers_ The Workhorse of Generative LLMs.pdf",
-    "papers/A recipe for frontier model post-training.pdf",
     "papers/gpt4.pdf",
     "papers/Language models are few shot learner.pdf",
     "papers/GPT2.pdf",
@@ -208,7 +209,6 @@
     "papers/beyond chinchilla optimal.pdf",
     "conflict-files-obsidian-git.md",
     "papers/GPT1_annotated.pdf",
-    "papers/attention is all you need.pdf",
     "images/chinchilla image.png",
     "images/chinchilla_image.jpeg",
     "Lecture 5 - Neural Scaling Laws.md",

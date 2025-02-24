@@ -18,7 +18,9 @@ Test time scaling:  [youtube video](https://www.youtube.com/watch?v=6PEJ96k1kiw)
 ![](https://www.youtube.com/watch?v=6PEJ96k1kiw)
 
 
-Blog post on post training: [[A recipe for frontier model post-training.pdf]]
+Important blog posts to read:
+- [[A recipe for frontier model post-training.pdf]]
+- [[Chain of Thought Prompting for LLMs.pdf]]
 ***
 ## History 📜
 
