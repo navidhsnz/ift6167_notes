@@ -81,9 +81,9 @@
     "Red": "#ea5252",
     "Note": "#086ddd",
     "Important": "#bb61e5",
-    "giring": "#679e00"
+    "crucial": "#437a00"
   },
-  "defaultColor": "giring",
+  "defaultColor": "crucial",
   "defaultColorPaletteItemIndex": 0,
   "syncColorPaletteItem": true,
   "syncDefaultColorPaletteItem": false,
