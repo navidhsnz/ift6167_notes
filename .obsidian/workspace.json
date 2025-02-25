@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "19e0b927e8d43fc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Lecture 7 - DeepSeek 🐋.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Lecture 7 - DeepSeek 🐋"
             }
           }
         ]
@@ -194,10 +194,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "19e0b927e8d43fc8",
   "lastOpenFiles": [
-    "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset.md",
+    "Lecture 1.md",
     "README.md",
+    "Lecture 7 - DeepSeek 🐋.md",
+    "papers/Open-R1_ a fully open reproduction of DeepSeek-R1.pdf",
+    "papers/DeepSeek-R1- Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.pdf",
+    "papers/DeepSeek-R1.pdf",
+    "papers/DeepSeek-R1 explained _ Pioneering the Next Era of Reasoning-Driven AI.pdf",
+    "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset.md",
     "papers/Open-Embodiment- Robotic Learning Datasets and RT-XModels.pdf",
     "papers/Representation Projection Invariance Mitigates Representation Collapse.pdf",
     "Lecture 6 - Chinchilla 🐁.md",
@@ -205,10 +211,6 @@
     "papers/A recipe for frontier model post-training.pdf",
     "papers/Scaling Laws for LLMs_ From GPT-3 to o3.pdf",
     "papers/Decoder-Only Transformers_ The Workhorse of Generative LLMs.pdf",
-    "papers/gpt4.pdf",
-    "papers/Language models are few shot learner.pdf",
-    "papers/GPT2.pdf",
-    "papers/GPT1 - language_understanding_paper.pdf",
     "conflict-files-obsidian-git.md",
     "images/chinchilla image.png",
     "images/chinchilla_image.jpeg",
@@ -240,7 +242,6 @@
     "To do.md",
     "predicting grokking.md",
     "README.ml.md",
-    "Daily Report.md",
-    "All Papers.md"
+    "Daily Report.md"
   ]
 }
