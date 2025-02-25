@@ -8,6 +8,8 @@ Course notes of IFT6167 🏎️
 - [[Lecture 5 - Neural Scaling Laws]]
 - [[Lecture 6 - Chinchilla 🐁]] 
 - [[Lecture 7 - DeepSeek 🐋]]
+- [[Lecture 8 - Scale alone ... & GPT3 paper]]
 
 - [[Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset]]
+- [[Lecture 15]]
 - 

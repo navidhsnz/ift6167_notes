@@ -19,3 +19,28 @@ Other Sources:
 > [!PDF|67, 122, 0] [[DeepSeek-R1- Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.pdf#page=15&annotation=738R|DeepSeek-R1- Incentivizing Reasoning Capability in LLMs via Reinforcement Learning, p.15]]
 > > Therefore, we can draw two conclusions: First, distilling more powerful models into smaller ones yields excellent results, whereas smaller models relying on the large-scale RL mentioned in this paper require enormous computational power and may not even achieve the performance of distillation. Second, while distillation strategies are both economical and effective, advancing beyond the boundaries of intelligence may still require more powerful base models and largerscale reinforcement learning.
 
+### GRPO:
+![[Screenshot 2025-02-25 at 2.43.03 PM.png]]
+
+### Steps taken in improving DeepSeek-R1-zero and creating DeepSeek-R1:
+
+![[Screenshot 2025-02-25 at 2.50.45 PM.png|600]]
+
+![[Screenshot 2025-02-25 at 2.48.53 PM.png]]
+![[Screenshot 2025-02-25 at 2.51.22 PM.png|400]]
+![[Screenshot 2025-02-25 at 2.51.39 PM.png]]
+![[Screenshot 2025-02-25 at 3.04.39 PM.png|220]]
+
+> [!PDF|crucial] [[DeepSeek-R1- Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.pdf#page=15&selection=63,0,68,29&color=crucial|DeepSeek-R1- Incentivizing Reasoning Capability in LLMs via Reinforcement Learning, p.15]]
+> > Therefore, we can draw two conclusions: First, distilling more powerful models into smaller ones yields excellent results, whereas smaller models relying on the large-scale RL mentioned in this paper require enormous computational power and may not even achieve the performance of distillation. Second, while distillation strategies are both economical and effective, **advancing beyond the boundaries of intelligence may still require more powerful base models and larger-scale reinforcement learning.**
+> 
+
+
+
+
+- [ ] mcgill workday
+- [ ] lunch
+- [ ] read wednesday papers
+- [ ] ask how to add model to server
+- [ ] read papers for new direction
+- [ ] see if you can update the report
