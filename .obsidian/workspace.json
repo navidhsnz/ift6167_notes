@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "b41156d80b53ca8c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7eb9b85383b8d6a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50271224975586
+    "width": 233.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "72ef5901c685c258",
@@ -193,9 +194,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7eb9b85383b8d6a4",
   "lastOpenFiles": [
+    "Lecture 9 - Alignment faking & Scale on catastrophic forgetting.md",
+    "papers/Effect of scale on catastrophic forgetting in neural networks.pdf",
+    "papers/Alignment faking in large language models.pdf",
     "README.md",
+    "Lecture 15.md",
     "Lecture 7 - DeepSeek 🐋.md",
     "papers/DeepSeek-R1- Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.pdf",
     "Screenshot 2025-02-25 at 3.04.39 PM.png",
@@ -218,11 +223,8 @@
     "images/Screenshot 2025-02-25 at 2.27.17 PM.png",
     "images/Screenshot 2025-02-25 at 2.25.49 PM.png",
     "images/Screenshot 2025-02-25 at 2.25.22 PM.png",
-    "Lecture 15.md",
     "[[.md",
     "Lecture 1.md",
-    "papers/Open-R1_ a fully open reproduction of DeepSeek-R1.pdf",
-    "papers/DeepSeek-R1.pdf",
     "conflict-files-obsidian-git.md",
     "Lecture 5 - Neural Scaling Laws.md",
     "Lecture 4 - Computational Psychiatry of LLMs.md",
@@ -239,7 +241,6 @@
     "Ideas.md",
     "Business course.md",
     "2025-01-18.md",
-    "Language models are few shot learner.pdf.md",
-    "Poems.md"
+    "Language models are few shot learner.pdf.md"
   ]
 }
