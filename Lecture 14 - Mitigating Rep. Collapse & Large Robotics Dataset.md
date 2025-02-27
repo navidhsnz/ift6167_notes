@@ -2,8 +2,9 @@ This lecture contains two paper presentations.
 ***
 ## Paper 1: Representation Projection Invariance Mitigates Representation Collapse
 
-Link: [https://arxiv.org/abs/2205.11603](https://arxiv.org/abs/2205.11603)
+
 paper pdf: [[Representation Projection Invariance Mitigates Representation Collapse.pdf]]
+Link: [https://arxiv.org/abs/2205.11603](https://arxiv.org/abs/2205.11603)
 
 ![[Representation Projection Invariance Mitigates Representation Collapse.pdf#page=2&rect=318,330,511,391|Representation Projection Invariance Mitigates Representation Collapse, p.2|400]]
 
@@ -24,8 +25,9 @@ paper pdf: [[Representation Projection Invariance Mitigates Representation Colla
 
 Question: Q1. In the paper, it seems like they only target language models and NLP. Do you think their regularization method Repina could be useful in tasks outside of NLP, like for vision models or multi-modal foundation models? (where representation quality is also really crucial) or even in Reinforcement learning. It seems to me that some mention of other modalities should have been a part of this paper since NLP is not the only application of this regularization methods. Do you think any challenges could arise if we apply this method to domains outside of NLP?
 ## Paper 2: Open X-Embodiment: Robotic Learning Datasets and RT-X Models
-Link: [https://arxiv.org/abs/2310.08864](https://arxiv.org/abs/2310.08864)
+
 Paper pdf: [[Open-Embodiment- Robotic Learning Datasets and RT-XModels.pdf]]
+Link: [https://arxiv.org/abs/2310.08864](https://arxiv.org/abs/2310.08864)
 Paper website: [https://robotics-transformer-x.github.io/](https://robotics-transformer-x.github.io/)
 
 > [!PDF|255, 208, 0] [[Open-Embodiment- Robotic Learning Datasets and RT-XModels.pdf#page=3&annotation=691R|Open-Embodiment- Robotic Learning Datasets and RT-XModels, p.3]]
