@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23403a6d9a27f435",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "2602a1facbb88c5f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,11 +193,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2602a1facbb88c5f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
     "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset.md",
     "Lecture 15.md",
-    "README.md",
     "papers/Representation Projection Invariance Mitigates Representation Collapse.pdf",
     "papers/Open-Embodiment- Robotic Learning Datasets and RT-XModels.pdf",
     "Lecture 9 - Alignment faking & Scale on catastrophic forgetting.md",
