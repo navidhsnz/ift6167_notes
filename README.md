@@ -13,4 +13,6 @@ Course notes of IFT6167 🏎️
 
 - [[Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset]]
 - [[Lecture 15]]
+- Lecture 17
+- [[Lecture 18]]
 - 
