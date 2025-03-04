@@ -13,15 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lecture 18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Lecture 18"
+            }
+          },
+          {
+            "id": "f5b1e715e98cae04",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "papers/Investigating Continual Pretraining in Large Language Models Insights and Implications.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 490,
+                "zoom": 1.7438725490196079
+              },
+              "icon": "lucide-file-text",
+              "title": "Investigating Continual Pretraining in Large Language Models Insights and Implications"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50271224975586,
-    "collapsed": true
+    "width": 233.50271224975586
   },
   "right": {
     "id": "72ef5901c685c258",
@@ -194,11 +210,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f5b1e715e98cae04",
   "lastOpenFiles": [
     "Lecture 18.md",
-    "README.md",
     "papers/Investigating Continual Pretraining in Large Language Models Insights and Implications.pdf",
+    "README.md",
     "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset.md",
     "Lecture 15.md",
     "papers/Representation Projection Invariance Mitigates Representation Collapse.pdf",
