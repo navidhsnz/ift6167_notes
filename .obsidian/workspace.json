@@ -13,32 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 18.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 18"
-            }
-          },
-          {
-            "id": "f5b1e715e98cae04",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "papers/Investigating Continual Pretraining in Large Language Models Insights and Implications.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 490,
-                "zoom": 1.7438725490196079
-              },
-              "icon": "lucide-file-text",
-              "title": "Investigating Continual Pretraining in Large Language Models Insights and Implications"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50271224975586
+    "width": 233.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "72ef5901c685c258",
@@ -210,10 +194,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f5b1e715e98cae04",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Lecture 18.md",
     "papers/Investigating Continual Pretraining in Large Language Models Insights and Implications.pdf",
+    "Lecture 18.md",
     "README.md",
     "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset.md",
     "Lecture 15.md",
