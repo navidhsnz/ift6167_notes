@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "584d38b74244f894",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c8f8318eaa7c73d2",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -189,11 +193,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c3c97e5a468f15d9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
     "papers/Empirical Investigation of Catastrophic Forgetting-goodfellow.pdf",
     "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset.md",
-    "README.md",
     "Lecture 18.md",
     "Lecture 4 - Computational Psychiatry of LLMs.md",
     "Lecture 2 - Continual Learning.md",
