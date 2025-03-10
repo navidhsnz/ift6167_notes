@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "1679fc64df1b07e3",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "eaee7c9792e1ecd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50271224975586
+    "width": 233.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "72ef5901c685c258",
@@ -193,45 +190,46 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "eaee7c9792e1ecd1",
   "lastOpenFiles": [
-    "README.md",
-    "papers/Empirical Investigation of Catastrophic Forgetting-goodfellow.pdf",
-    "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset.md",
     "Lecture 18.md",
-    "Lecture 4 - Computational Psychiatry of LLMs.md",
+    "papers/DeepSeek LLM- Scaling Open-Source Language Models with Longtermism.pdf",
+    "papers/Emergent Abilities of Large Language Models.pdf",
+    "README.md",
+    "Lecture 17.md",
+    "Lecture 3 - Scaling behaviour.md",
     "Lecture 2 - Continual Learning.md",
+    "papers/Empirical Investigation of Catastrophic Forgetting-goodfellow.pdf",
+    "papers/Continual Lifelong Learning with Neural Networks.pdf",
+    "Lecture 7 - DeepSeek 🐋.md",
+    "papers/Investigating Continual Pretraining in Large Language Models Insights and Implications.pdf",
+    "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset.md",
+    "Lecture 4 - Computational Psychiatry of LLMs.md",
     "Lecture 1.md",
     "conflict-files-obsidian-git.md",
-    "papers/Investigating Continual Pretraining in Large Language Models Insights and Implications.pdf",
     "Lecture 15.md",
     "papers/Representation Projection Invariance Mitigates Representation Collapse.pdf",
     "papers/Open-Embodiment- Robotic Learning Datasets and RT-XModels.pdf",
     "Lecture 9 - Alignment faking & Scale on catastrophic forgetting.md",
     "papers/Effect of scale on catastrophic forgetting in neural networks.pdf",
-    "Lecture 7 - DeepSeek 🐋.md",
     "papers/Alignment faking in large language models.pdf",
     "Untitled.md",
     "Lecture 8 - Scale alone ... & GPT3 paper.md",
     "images/Screenshot 2025-02-25 at 3.04.39 PM.png",
     "images/Screenshot 2025-02-25 at 2.23.35 PM.png",
     "papers/Simple and Scalable Strategies to Continually Pre-train Large Language Models.pdf",
-    "papers/DeepSeek-R1- Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.pdf",
     "images/Screenshot 2025-02-25 at 2.51.39 PM.png",
     "images/Screenshot 2025-02-25 at 2.51.22 PM.png",
     "images/Screenshot 2025-02-25 at 2.50.45 PM.png",
     "images/Screenshot 2025-02-25 at 2.48.53 PM.png",
     "images/Screenshot 2025-02-25 at 2.43.03 PM.png",
     "Lecture 6 - Chinchilla 🐁.md",
-    "papers/attention is all you need.pdf",
-    "papers/Scaling Laws for LLMs_ From GPT-3 to o3.pdf",
     "images/Screenshot 2025-02-25 at 2.33.33 PM.png",
     "images/Screenshot 2025-02-25 at 2.27.17 PM.png",
     "images/Screenshot 2025-02-25 at 2.25.49 PM.png",
     "[[.md",
     "Lecture 5 - Neural Scaling Laws.md",
     "Untitled 1.md",
-    "Lecture 3 - Scaling behaviour.md",
     "Home.md",
     "IFT6167.md",
     "Screenshot 2025-02-20 at 4.03.32 PM.png.md",
@@ -239,7 +237,6 @@
     "2025-02-21.md",
     "Daily Summary.md",
     "Ideas.md",
-    "Business course.md",
-    "2025-01-18.md"
+    "Business course.md"
   ]
 }
