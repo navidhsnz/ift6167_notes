@@ -16,4 +16,4 @@ Course notes of IFT6167 🏎️
 - Lecture 17
 - [[Lecture 18]]
 - [[Lecture 19]]
-- 
+- [[Lecture]]
