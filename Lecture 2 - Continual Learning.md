@@ -5,6 +5,7 @@
 #Paper:  [[Continual Lifelong Learning with Neural Networks.pdf]]
 
 ---
+
 ![[Screenshot 2025-02-20 at 3.24.42 PM.png|700]]
 the FM revolution caused many of CL problems were somewhat solved through scaling.
 
