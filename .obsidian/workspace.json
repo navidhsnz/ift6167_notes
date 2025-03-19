@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "5f6378e5ba053f68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture"
-            }
-          },
-          {
-            "id": "22b66e367183ea56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,16 +193,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "22b66e367183ea56",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Lecture_march19.md",
+    "papers/Large Language Models can Strategically Deceive their Users when Put Under Pressure.pdf",
+    "README.md",
+    "Lecture 19.md",
+    "Lecture 17.md",
+    "Lecture 18.md",
     "Lecture.md",
     "conflict-files-obsidian-git.md",
     "papers/Emergent Abilities of Large Language Models.pdf",
     "papers/DeepSeek LLM- Scaling Open-Source Language Models with Longtermism.pdf",
-    "Lecture 17.md",
-    "README.md",
-    "Lecture 19.md",
-    "Lecture 18.md",
     "papers/Investigating Continual Pretraining in Large Language Models Insights and Implications.pdf",
     "Lecture 14 - Mitigating Rep. Collapse & Large Robotics Dataset.md",
     "Lecture 15.md",
@@ -253,7 +226,6 @@
     "images/Screenshot 2025-02-25 at 2.48.53 PM.png",
     "images/Screenshot 2025-02-25 at 2.43.03 PM.png",
     "Lecture 6 - Chinchilla 🐁.md",
-    "papers/attention is all you need.pdf",
     "images/Screenshot 2025-02-25 at 2.33.33 PM.png",
     "images/Screenshot 2025-02-25 at 2.27.17 PM.png",
     "images/Screenshot 2025-02-25 at 2.25.49 PM.png",
@@ -268,7 +240,6 @@
     "IFT6167.md",
     "Screenshot 2025-02-20 at 4.03.32 PM.png.md",
     "Untitled.canvas",
-    "2025-02-21.md",
-    "Daily Summary.md"
+    "2025-02-21.md"
   ]
 }
